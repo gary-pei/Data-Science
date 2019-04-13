@@ -1,0 +1,1000 @@
+  288  docker pull confluentinc/cp-kafka:latest
+  289  history
+  290  docker pull midsw205/base
+  291  docker pull confluentinc/cp-zookeeper:latest
+  292  docker ps
+  293  docker ps -a
+  294  docker images
+  295  docker images ls
+  296  docker images 
+  297  ls
+  298  cd w205
+  299  ls
+  300  mkdir ~/w205/kafka
+  301  ls
+  302  cd kafka/
+  303  ls
+  304  vi docker-compose.yml
+  305  w
+  306  last
+  307  last 
+  308  history
+  309  exit
+  310  last | more
+  311  history
+  312  exit
+  313  history | grep docker
+  314  docker images
+  315  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  316  ls
+  317  ls w205
+  318  ls w205/kafka/
+  319  less w205/kafka/docker-compose.yml 
+  320  exit
+  321  last | more
+  322  ls
+  323  history | grep docker
+  324  cd w205
+  325  ls
+  326  cd kafka/
+  327  ls
+  328  docker-compose up -d
+  329  docker-compose ps
+  330  docker ps -a
+  331  docker-compose down
+  332  docker-compose ps
+  333  history
+  334  docker ps -a
+  335  exit
+  336  history
+  337  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  338  exit
+  339  ls
+  340  history
+  341  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  342  exit
+  343  history
+  344  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  345  last | more
+  346  exit
+  347  history | grep docker
+  348  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  349  docker ps -a
+  350  docker rm 8b2fc03cc377
+  351  docker rm -f 8b2fc03cc377
+  352  docker ps -a
+  353  history | grep docker
+  354  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  355  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  356  ls
+  357  history | grep docker
+  358  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  359  ls
+  360  history
+  361  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  362  exit
+  363  last
+  364  history | grep docker
+  365  history | grep docker | more
+  366  docker pull midsw205/base
+  367  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  368  exit
+  369  history
+  370  docker ps 
+  371  docker exec -it 0e542fff44e0 bash
+  372  exit
+  373  history | grep docker
+  374  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  375  exit
+  376  history
+  377  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  378  exit
+  379  history | grep socker
+  380  history | grep docker
+  381  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  382  history | grep docker
+  383  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  384  exit
+  385  history
+  386  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  387  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  388  last 
+  389  exit
+  390  history | more
+  391  history | tail 
+  392  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  393  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  394  docker ps
+  395  docker ps -a
+  396  docker rm -f 1b39bb4925d1
+  397  docker ps -a
+  398  history | grep exec
+  399  docker exec -it b30ddde93000 bash
+  400  exit
+  401  history | tail
+  402  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  403  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  404  docker ps -a
+  405  docker exec -it b30ddde93000 bash
+  406  docker ps
+  407  docker rm -f b30ddde93000
+  408  docker ps
+  409  docker ps -a
+  410  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  411  exit
+  412  history | tail
+  413  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  414  exit
+  415  lsof
+  416  lsof -i :8888
+  417  ls
+  418  history
+  419  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  420  lsof -i :8888
+  421  lsof
+  422  lsof | more
+  423  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  424  exit
+  425  cat /proc/net/tcp
+  426  lsof
+  427  lsof -i :8888
+  428  cat /proc/net/tcp
+  429  docker ps 
+  430  history | grep docker
+  431  docker ps
+  432  docker exec -it 77d8d332c9c4 bash
+  433  netstat
+  434  netstat | more
+  435  docker exec -it 77d8d332c9c4 bash
+  436  exit
+  437  cat /proc/net/tcp
+  438  history
+  439  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  440  history
+  441  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  442  exit
+  443  history
+  444  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  445  history
+  446  docker run -it --rm -p 8888:8888 -v ~/w205:/w205 midsw205/base bash
+  447  docker ps -a
+  448  ls
+  449  cd ~/w205/redis/
+  450  ls
+  451  vi docker-compose.yml
+  452  more docker-compose.yml
+  453  docker-compose up -d
+  454  docker-compose logs mids
+  455  ifconfig
+  456  cd
+  457  ls -al
+  458  cd w205
+  459  ls
+  460  cd redis/
+  461  ls
+  462  more docker-compose.yml 
+  463  ls
+  464  docker ps
+  465  docker-compose down
+  466  pwd
+  467  ls
+  468  more docker-compose.yml 
+  469  exit
+  470  docker ps
+  471  docker exec -it b898f22d7aed bash
+  472  exit
+  473  history
+  474  ls
+  475  cd w205
+  476  ls
+  477  cd redis/
+  478  ls
+  479  vi docker-compose.yml 
+  480  ls
+  481  cd ..
+  482  ls
+  483  cd ..
+  484  history
+  485  history | grep docker
+  486  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  487  docker ps -a
+  488  exit
+  489  docker ps
+  490  exit
+  491  docker image ls
+  492  history
+  493  docker image history -h midsw205/base
+  494  docker image history -H midsw205/base
+  495  docker image history -H midsw205/base | less
+  496  docker image inspect midsw205/base
+  497  function dc_trace_cmd() {   local parent=`docker inspect -f '{{ .Parent }}' $1` 2>/dev/null;   declare -i level=$2;   echo ${level}: `docker inspect -f '{{ .ContainerConfig.Cmd }}' $1 2>/dev/null`;   level=level+1;   if [ "${parent}" != "" ]; then     echo ${level}: $parent ;     dc_trace_cmd $parent $level;   fi; }
+  498  dc_trace_cmd midsw205/base
+  499  docker inspect -f midsw205/base
+  500  docker inspect  midsw205/base
+  501  exit
+  502  ls
+  503  cd w205
+  504  ls
+  505  cd redis/
+  506  ls
+  507  more docker-compose.yml 
+  508  history 
+  509  history  | more
+  510  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  511  history | grep docker
+  512  docker-compose up -d
+  513  docker-compose ps
+  514  docker ps 
+  515  ls
+  516  more docker-compose.yml 
+  517  docker-compse logs mids
+  518  docker-compose logs mids
+  519  ifconfig
+  520  docker-compose exec mids bash
+  521  docker-compose logs mids
+  522  docker-compose logs mids | more
+  523  docker-compose logs mids 
+  524  docker-compose down
+  525  docker ps -a
+  526  cd ..
+  527  ls
+  528  cd assignment-05-gary-pei/
+  529  ls
+  530  git status
+  531  git lg
+  532  history | grep docker
+  533  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  534  last | more
+  535  docker ps
+  536  docker ps -a
+  537  docker -it exec 32ddb382a38a bash
+  538  docker  exec 32ddb382a38a bash
+  539  history | grep exec
+  540  docket exec -it 32ddb382a38a bash
+  541  docker exec -it 32ddb382a38a bash
+  542  docker ps
+  543  docker rm -rf 32ddb382a38a
+  544  docker rm -f 32ddb382a38a
+  545  docker ps
+  546  docker ps -a
+  547  history | grep docker
+  548  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  549  docker ps -a
+  550  ls
+  551  cd w205
+  552  ls
+  553  ls -al
+  554  cd redis/
+  555  ls -al
+  556  docker-compose up -d
+  557  docker-compose ps
+  558  docker-compose logs mids
+  559  ifconfig eth0
+  560  ls
+  561  docker-compose logs mids
+  562  history | grep docker-compose
+  563  docker-compose exec mids bash
+  564  docker-compose logs mids
+  565  docker-compose down
+  566  docker ps -a
+  567  exit
+  568  history
+  569  last
+  570  last | more
+  571  exit
+  572  ifconfig eth0
+  573  history | grep docker-compose
+  574  docker-compose exec mids bash
+  575  pwd
+  576  ls
+  577  cd w205/redis/
+  578  docker-compose exec mids bash
+  579  exit
+  580  cd w205/redis/
+  581  ls
+  582  more docker-compose.yml 
+  583  history | grep docker-compose
+  584  docker-compose up -d
+  585  docker-compose logs mids
+  586  history | grep docker-compose
+  587  docker-compose down
+  588  docker ps -a
+  589  history
+  590  history | grep pull
+  591  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  592  exit
+  593  history | grep docker-compose
+  594  docker-compose exec mids bash
+  595  cd w205/redis/
+  596  docker-compose exec mids bash
+  597  exit
+  598  cd w205/redis/
+  599  history | grep docker-compose
+  600  docker-compose up -d
+  601  docker-compose ps
+  602  docker-compose logs mids
+  603  docker-compose logs mids | tail
+  604  history
+  605  docker-compose down
+  606  docker ps -a
+  607  history | grep pull
+  608  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  609  exit
+  610  ifconfig eth0
+  611  cd w205/redis/
+  612  history | grep docker-compose
+  613  docker-compose exec mids bash
+  614  exit
+  615  history | grep docker-compose
+  616  cd w205/redis/
+  617  docker-compose up -d
+  618  docker-compose logs mids
+  619  history
+  620  docker-compose down
+  621  exit
+  622  docker ps
+  623  docker-compose
+  624  pwd
+  625  ls
+  626  ls -tla
+  627  uname -a
+  628  last | more
+  629  w
+  630  pwd
+  631  history | grep docker
+  632  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  633  history | grep docker
+  634  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  635  docker ps -a
+  636  exit
+  637  history
+  638  exit
+  639  history
+  640  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  641  exit
+  642  docker ps -a
+  643  cd w205/supplement/
+  644  ls
+  645  history
+  646  ls
+  647  exit
+  648  ls
+  649  cd w205
+  650  ls
+  651  mkdir supplement
+  652  cd supplement/
+  653  ls
+  654  vi w205withnbextension
+  655  ls
+  656  pwd
+  657  ls
+  658  lss
+  659  pwd
+  660  wd
+  661  pwd
+  662  ls
+  663  more w205withnbextension 
+  664  pip3
+  665  pwd
+  666  ls
+  667  more w205withnbextension 
+  668  history
+  669  docker image ls
+  670  docker build . -f w205withnbextension -t garypei/w205extension:latest
+  671  docker image ls
+  672  docker login --username=garypei
+  673  docker push garypei/w205extension
+  674  docker image ls
+  675  ls
+  676  pwd
+  677  ls
+  678  cd ..
+  679  ls
+  680  ls redis/
+  681  cd redis/
+  682  ls
+  683  more docker-compose.yml 
+  684  docker image
+  685  docker image ls
+  686  ls
+  687  cd ..
+  688  ls
+  689  cd supplement/
+  690  ls
+  691  mv w205withnbextension DockerfileW205withnbextension
+  692  ls
+  693  cp ../redis/docker-compose.yml redis-with-nbext.yml
+  694  ls
+  695  vi redis-with-nbext.yml 
+  696  docker image ls
+  697  vi redis-with-nbext.yml 
+  698  ls
+  699  more redis-with-nbext.yml 
+  700  docker-compose -f redis-with-nbext.yml up -d 
+  701  docker-compose -f redis-with-nbext.yml ps
+  702  docker-compose -f redis-with-nbext.yml logs
+  703  ifconfig
+  704  history
+  705  docker-compose -f redis-with-nbext.yml logs
+  706  docker-compose -f redis-with-nbext.yml ps
+  707  docker-compose -f redis-with-nbext.yml down
+  708  docker-compose -f redis-with-nbext.yml ps
+  709  docker ps -a
+  710  docker image ls
+  711  ls
+  712  more DockerfileW205withnbextension 
+  713  ls
+  714  history
+  715  history | grep docker
+  716  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  717  ls -tl
+  718  cd ..
+  719  ls
+  720  cd assignment-05-gary-pei/
+  721  ls
+  722  ls -tl
+  723  git lg
+  724  git log -p
+  725  ls
+  726  history
+  727  ls
+  728  exit
+  729  pwd
+  730  ls
+  731  more w205/supplement/DockerfileW205withnbextension 
+  732  cd w205/supplement/
+  733  ls
+  734  history
+  735  history | grep docker-compose
+  736  docker-compose -f redis-with-nbext.yml up -d 
+  737  docker-compose -f redis-with-nbext.yml ps
+  738  docker-compose -f redis-with-nbext.yml logs
+  739  ifconfig
+  740  ifconfig eth0
+  741  docker-compose -f redis-with-nbext.yml logs
+  742  history | grep docker-compose
+  743  docker-compose -f redis-with-nbext.yml down
+  744  exit
+  745  history | grep docker
+  746  history | grep docker pull
+  747  history | grep "docker pull"
+  748  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  749  ls
+  750  ls w205/kafka/
+  751  ls
+  752  cd w205
+  753  ls
+  754  cd kafka/
+  755  ls
+  756  more docker-compose.yml 
+  757  ls
+  758  rm docker-compose.yml 
+  759  vi docker-compose.yml
+  760  docker-compose up -d
+  761  docker-compose ps
+  762  docker-compose logs zookeeper | grep -i binding
+  763  docker-compose logs kafka | grep -i started
+  764  exit
+  765  ls
+  766  cd w205/kafka/
+  767  ls
+  768  history
+  769  exit
+  770  ls
+  771  exit
+  772  history
+  773  docker ps -a
+  774  ls
+  775  cd w205/kafka/
+  776  docker-compose exec kafka kafka-topics --create --topic foo --partitions 1 --replication-factor 1 --if-not-exists --zookeeper localhost:32181
+  777  docker-compose exec kafka kafka-topics --describe --topic foo --zookeeper localhost:32181
+  778  seq 42
+  779  docker-compose exec kafka   bash -c "seq 42 | kafka-console-producer \
+  780      --request-required-acks 1 \
+  781      --broker-list localhost:29092 \
+  782      --topic foo && echo 'Produced 42 messages.'"
+  783  docker-compose exec kafka   kafka-console-consumer     --bootstrap-server localhost:29092     --topic foo     --from-beginning     --max-messages 42
+  784  docker-compose down
+  785  ls
+  786  rm docker-compose.yml 
+  787  ls
+  788  vi docker-compose.yml
+  789  curl -L -o github-example-large.json https://goo.gl/2Z2fPw
+  790  wc -l github-example-large.json 
+  791  history | grep up
+  792  docker-compose up -d
+  793  docker ps -a
+  794  docker-compose exec kafka kafka-topics --create --topic foo --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:32181
+  795  docker-compose exec kafka kafka-topics --describe --topic foo --zookeeper zookeeper:32181
+  796  docker-compose exec mids bash -c "cat /w205/kafka/github-example-large.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t foo && echo 'Produced 100 messages.'"
+  797  docker-compose exec kafka kafka-console-consumer --bootstrap-server kafka:29092 --topic foo --from-beginning --max-messages 42
+  798  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t foo -o beginning -e"
+  799  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t foo -o beginning -e" | wc -l
+  800  exit
+  801  cd w205/kafka/
+  802  docker-compose logs -f kafka
+  803  exit
+  804  ls
+  805  history | grep docker
+  806  ls
+  807  cd w205
+  808  ls
+  809  cd redis/
+  810  ls
+  811  more docker-compose.yml 
+  812  ls
+  813  docker-compose up -d
+  814  docker-compse logs mods
+  815  docker-compse logs mids
+  816  docker-compose logs mids
+  817  ifconfig eth0
+  818  docker-compose exec -it mids bash
+  819  docker-compose exec  mids bash
+  820  ls
+  821  docker-compose down
+  822  docker ps -a
+  823  cd ../kafka/
+  824  ls
+  825  docker-compose down
+  826  docker ps -a
+  827  docker-compose ps
+  828  docker ps -a
+  829  exit
+  830  ls
+  831  cd w205
+  832  ls
+  833  ls -tl
+  834  cd test
+  835  ls
+  836  ls -tl
+  837  pwd
+  838  ls
+  839  ls -tl
+  840  cd ..
+  841  ls
+  842  cd assignment-05-gary-pei/
+  843  ls
+  844  ls -al
+  845  history | grep git
+  846  history | grep docker
+  847  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  848  ls
+  849  ls -tl
+  850  git lg
+  851  git pull
+  852  git pull origin assignment
+  853  git lg
+  854  git reflog
+  855  cd
+  856  exit
+  857  ls
+  858  history
+  859  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  860  exit
+  861  docker --help
+  862  docker cp --help
+  863  docker ps -a
+  864  history > t.txt
+  865  ls
+  866  docker cp t.txt 9fd99b87a364:/w205/assignment-05-gary-pei/.
+  867  exit
+  868  docker image ls
+  869  history
+  870  history | grep build
+  871  ls
+  872  rm t.txt 
+  873  ls
+  874  cd w205
+  875  ls
+  876  cd supplement/
+  877  ls
+  878  more DockerfileW205withnbextension 
+  879  history | grep build
+  880  ls
+  881  cd w205
+  882  ls
+  883  cd kafka/
+  884  ls
+  885  vi docker-compose.yml 
+  886  cd ../assignment-06-gary-pei/
+  887  git staus
+  888  git status
+  889  ls -al
+  890  vi gary-pei-annotations.md
+  891  xit
+  892  exit
+  893  mkdir w205/HW6
+  894  history
+  895  cd w205/HW6
+  896  curl -L -o assessment-attempts-20180128-121051-nested.json https://goo.gl/f5bRm4
+  897  ls
+  898  ls -al
+  899  vi docker-compose.yml
+  900  ls
+  901  less docker-compose.yml 
+  902  cat docker-compose.yml 
+  903  docker-compose up -d
+  904  docker-compose ps
+  905  docker-compose logs zookeeper | grep -i binding
+  906  docker-compose logs kafka | grep -i started
+  907  docker-compose exec kafka   kafka-topics     --create     --topic A6     --partitions 1     --replication-factor 1     --if-not-exists \
+  908  history
+  909  docker-compose exec kafka   kafka-topics     --create     --topic assessment-attempts     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper localhost:32181
+  910  docker-compose exec kafka   kafka-topics     --create     --topic asA6     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper localhost:32181
+  911  docker-compose exec kafka   kafka-topics     --create     --topic asfoo   --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper localhost:32181
+  912  history
+  913  docker-compose exec kafka     kafka-topics       --create       --topic assessment-attempts       --partitions 1       --replication-factor 1       --if-not-exists       --zookeeper zookeeper:32181
+  914  docker-compose exec kafka   kafka-topics     --describe     --topic assessment-attempts     --zookeeper zookeeper:32181
+  915  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json"
+  916  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.'"
+  917  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c"
+  918  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l"
+  919  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'
+  920  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'
+  921  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'
+  922  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+  923  docker-compose exec kafka   kafka-console-consumer     --bootstrap-server kafka:29092     --topic assessment-attempts     --from-beginning     --max-messages 42
+  924  docker-compose exec kafka   kafka-console-consumer     --bootstrap-server kafka:29092     --topic assessment-attempts     --from-beginning     --max-messages 1
+  925  docker-compose exec kafka   kafka-console-consumer     --bootstrap-server kafka:29092     --topic assessment-attempts     --from-beginning     --max-messages 1
+  926  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | wc -l
+  927  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l"
+  928  history
+  929  exit
+  930  cd w205/HW6
+  931  ls
+  932  cd ../assignment-06-gary-pei/
+  933  ls
+  934  vi gary-pei-annotations.md 
+  935  ls
+  936  ls -tl
+  937  more gary-pei-history.txt 
+  938  git status
+  939  git add gary-pei-history.txt 
+  940  git commit -m "Add history"
+  941  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  942  docker ps -a
+  943  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  944  exit
+  945  history
+  946  cd w205/HW6
+  947  ls
+  948  docker-compose down
+  949  docker-compose ps
+  950  docker ps -a
+  951  history > ~/w205/assignment-06-gary-pei/gary-pei-history.txt
+  952  history
+  953  history | grep docker
+  954  ls
+  955  cp docker-compose.yml ../assignment-06-gary-pei/.
+  956  exit
+  957  history | grep docker
+  958  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  959  exit
+  960  history
+  961  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  962  exit
+  963  history | grep pull
+  964  docker pull midsw205/base; docker pull confluentinc/cp-zookeeper:latest; docker pull confluentinc/cp-kafka:latest
+  965  docker image ls
+  966  ls
+  967  pwd
+  968  ls
+  969  history | grep docker
+  970  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+  971  pwd
+  972  ls
+  973  ls -al
+  974  cd w205
+  975  ls
+  976  ls -al
+  977  ls
+  978  cd assignment-05-gary-pei/
+  979  ls
+  980  ls -tl
+  981  cd ..
+  982  ls
+  983  cd assignment-06-gary-pei/
+  984  ls -tl
+  985  exit
+  986  docker pull midsw205/base:latest
+  987  docker pull confluentinc/cp-zookeeper:latest
+  988  docker pull confluentinc/cp-kafka:latest
+  989  docker pull midsw205/spark-python:0.0.5
+  990  history
+  991  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5
+  992  docker image ls
+  993  exit
+  994  ls
+  995  cd w205
+  996  ls
+  997  cd course-content/
+  998  ls
+  999  ls -tl
+ 1000  git pull
+ 1001  history | grep docker
+ 1002  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1003  ls
+ 1004  exit
+ 1005  history
+ 1006  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5
+ 1007  mkdir ~/w205/spark-with-kafka
+ 1008  cd ~/w205/spark-with-kafka
+ 1009  cp ~/w205/course-content/07-Sourcing-Data/docker-compose.yml .
+ 1010  ls
+ 1011  vi docker-compose.yml 
+ 1012  docker-compose up -d
+ 1013  docker-compose logs -f kafka
+ 1014  docker-compose exec spark pyspark
+ 1015  docker-compose down
+ 1016  docker-compose ps
+ 1017  docker ps -a
+ 1018  curl -L -o github-example-large.json https://goo.gl/Hr6erG
+ 1019  docker-compose up -d
+ 1020  docker-compose exec kafka kafka-topics --create --topic foo --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:32181
+ 1021  docker-compose exec kafka kafka-topics --describe --topic foo --zookeeper zookeeper:32181
+ 1022  docker-compose exec mids bash -c "cat /w205/spark-with-kafka/github-example-large.json | jq '.'"
+ 1023  docker-compose exec mids bash -c "cat /w205/spark-with-kafka/github-example-large.json | jq '.[]' -c"
+ 1024  docker-compose exec mids bash -c "cat /w205/spark-with-kafka/github-example-large.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t foo && echo 'Produced 100 messages.'"
+ 1025  docker-compose exec spark pyspark
+ 1026  docker-compose down
+ 1027  docker -a
+ 1028  docker ps -a
+ 1029  exit
+ 1030  history
+ 1031  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1032  cd w205
+ 1033  ls
+ 1034  cd spark-with-kafka/
+ 1035  ls
+ 1036  docker-compose exec kafka kafka-topics --create --topic foo --partitions 1 --replication-factor 1 --if-not-exists --zookeeper zookeeper:32181
+ 1037  docker-compose exec kafka kafka-topics --describe --topic foo --zookeeper zookeeper:32181
+ 1038  docker-compose exec kafka bash -c "seq 42 | kafka-console-producer --request-required-acks 1 --broker-list kafka:29092 --topic foo && echo 'Produced 42 messages.'"
+ 1039  exit
+ 1040  history
+ 1041  exit
+ 1042  history
+ 1043  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1044  exit
+ 1045  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1046  ls
+ 1047  cd w205
+ 1048  ls
+ 1049  cd HW6
+ 1050  ls
+ 1051  history | grep docker-compose
+ 1052  docker-compose up -d
+ 1053  ifcofnig
+ 1054  ifconfig | more
+ 1055  docker-compose ps
+ 1056  docker-compose exec hw6_mids_1 ifconfig
+ 1057  docker-compose exec mids ifconfig
+ 1058  docker-compose exec mids ip
+ 1059  docker-compose exec mids ip link
+ 1060  docker-compose exec mids ip link show
+ 1061  docker-compose exec mids ip link -a
+ 1062  docker-compose exec mids ip -a
+ 1063  docker-compose exec mids ip link a
+ 1064  docker-compose exec mids ip addr show
+ 1065  history | grep docker-compose
+ 1066  docker-compose down
+ 1067  docker ps -a
+ 1068  history | grep docker
+ 1069  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1070  mkdir w205/HW7
+ 1071  cd w205/HW7
+ 1072  curl -L -o assessment-attempts-20180128-121051-nested.json https://goo.gl/f5bRm4
+ 1073  ls -al
+ 1074  cp ~/W205/spark-with-kafka/docker-compose.yml .
+ 1075  cp ~/w205/spark-with-kafka/docker-compose.yml .
+ 1076  cat docker-compose.yml 
+ 1077  docker-compose up -d
+ 1078  docker-compose ps
+ 1079  docker-compose logs zookeeper | grep -i binding
+ 1080  docker-compose exec kafka   kafka-topics     --create     --topic assessment-attempts     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper zookeeper:32181
+ 1081  docker-compose exec kafka   kafka-topics   --describe   --topic assessment-attempts   --zookeeper zookeeper:32181
+ 1082  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l"
+ 1083  docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+ 1084  science@w205s7-crook-13:~/w205/HW7$ docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]'
+ 1085  "
+ 1086  science@w205s7-crook-13:~/w205/HW7$ docker-compose exec mids bash -c "cat /w205/HW6/assessment-attempts-20180128-121051-nested.json | jq '.[]'"
+ 1087  science@w205s7-crook-13:~/w205/HW7$ docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]'"
+ 1088  ls
+ 1089  science@w205s7-crook-13:~/w205/HW7$ docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json "
+ 1090  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json "
+ 1091  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' "
+ 1092  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l "
+ 1093  docker-compose down
+ 1094  docker ps -a
+ 1095  history
+ 1096  docker-compose up -d
+ 1097  docker-compose logs zookeeper | grep -i binding
+ 1098  docker-compose exec kafka   kafka-topics     --create     --topic assessment-attempts     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper zookeeper:32181
+ 1099  docker-compose exec kafka   kafka-topics   --describe   --topic assessment-attempts   --zookeeper zookeeper:32181
+ 1100  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l "
+ 1101  history
+ 1102  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+ 1103  science@w205s7-crook-13:~/w205/HW7$ docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+ 1104  Produced 3280 messages to topic assessment-attempts.
+ 1105  history
+ 1106  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | wc -l
+ 1107  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | head -n 1
+ 1108  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | wc -l
+ 1109  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | headd
+ 1110  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | head
+ 1111  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | wc -l
+ 1112  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | less
+ 1113  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | wc -l
+ 1114  clear
+ 1115  docker-compose exec kafka >   kafka-console-consumer >     --bootstrap-server kafka:29092 >     --topic assessment-attempts >     --from-beginning >     --max-messages 
+ 1116  history
+ 1117  docker-compose exec mids bash -c "kafkacat -C -b kafka:29092 -t assessment-attempts -o beginning -e" | wc -l
+ 1118  docker-compose exec kafka    kafka-console-consumer      --bootstrap-server kafka:29092      --topic assessment-attempts      --from-beginning      --max-messages 1
+ 1119  docker-compose exec spark pyspark
+ 1120  docker-compose down
+ 1121  docker-compose ps
+ 1122  docker ps -a
+ 1123  history > ~/w205/assignment-07-gary-pei/gary-pei-history.txt
+ 1124  exit
+ 1125  docker ps -a
+ 1126  history | grep pull
+ 1127  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5
+ 1128  exit
+ 1129  history
+ 1130  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1131  ls w205/assignment-06-gary-pei/
+ 1132  ls
+ 1133  history
+ 1134  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1135  exit
+ 1136  history
+ 1137  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5
+ 1138  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1139  exit
+ 1140  history
+ 1141  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1142  docker ps -a
+ 1143  exit
+ 1144  history
+ 1145  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1146  exit
+ 1147  history
+ 1148  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1149  exit
+ 1150  history | grep pull
+ 1151  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5
+ 1152  exit
+ 1153  history | grep docker
+ 1154  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1155  git pull midsw205/cdh-minimal:latest
+ 1156  ls -tl
+ 1157  history
+ 1158  docker pull midsw205/cdh-minimal:latest
+ 1159  docker image ls
+ 1160  history
+ 1161  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5;docker pull midsw205/cdh-minimal:latest
+ 1162  exit
+ 1163  history | grep pull
+ 1164  history
+ 1165  exit
+ 1166  docker pull midsw205/base:latest
+ 1167  docker pull confluentinc/cp-zookeeper:latest
+ 1168  docker pull confluentinc/cp-kafka:latest
+ 1169  docker pull midsw205/spark-python:0.0.5
+ 1170  docker pull midsw205/cdh-minimal:latest
+ 1171  history
+ 1172  exit
+ 1173  ls
+ 1174  history | grep pull
+ 1175  docker pull midsw205/base:latest;docker pull confluentinc/cp-zookeeper:latest;docker pull confluentinc/cp-kafka:latest;docker pull midsw205/spark-python:0.0.5;docker pull midsw205/cdh-minimal:latest
+ 1176  history | grep docker
+ 1177  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1178  mkdir ~/w205/spark-with-kafka-and-hdfs
+ 1179  cd ~/w205/spark-with-kafka-and-hdfs
+ 1180  cp ~/w205/course-content/08-Querying-Data/docker-compose.yml .
+ 1181  ls
+ 1182  ls -tl
+ 1183  more docker-compose.yml 
+ 1184  ls -tl
+ 1185  more docker-compose.yml 
+ 1186  vi docker-compose.yml 
+ 1187  docker-compose up -d
+ 1188  docker ps -a
+ 1189  docker-compose exec kafka   kafka-topics     --create     --topic players     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper zookeeper:32181
+ 1190  curl -L -o players.json https://goo.gl/jSVrAe
+ 1191  ls
+ 1192  more players.json 
+ 1193  ls
+ 1194  docker-compose exec mids   bash -c "cat /w205/spark-with-kafka-and-hdfs/players.json \
+ 1195      | jq '.[]' -c \
+ 1196      | kafkacat -P -b kafka:29092 -t players"
+ 1197  docker-compose exec cloudera hadoop fs -ls /tmp/
+ 1198  history
+ 1199  docker-compose exec cloudera hadoop fs -ls /tmp/players/
+ 1200  docker-compose exec cloudera hadoop fs -ls /tmp/
+ 1201  docker-compose exec cloudera hadoop fs -ls /tmp/extracted_players
+ 1202  docker-compose exec kafka   kafka-topics     --create     --topic commits     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper zookeeper:32181
+ 1203  curl -L -o github-example-large.json https://goo.gl/Hr6erG
+ 1204  vi github-example-large.json 
+ 1205  docker-compose exec mids   bash -c "cat /w205/spark-with-kafka-and-hdfs/github-example-large.json \
+ 1206      | jq '.[]' -c \
+ 1207      | kafkacat -P -b kafka:29092 -t commits"
+ 1208  docker-compose exec cloudera hadoop fs -ls /tmp/
+ 1209  docker-compose exec cloudera hadoop fs -ls /tmp/commits/
+ 1210  docker-compose exec cloudera hadoop fs -ls /tmp/some_commit_info
+ 1211  cd ~/w205/spark-with-kafka-and-hdfs
+ 1212  docker-compose logs -f kafka
+ 1213  history
+ 1214  cd ~/w205/spark-with-kafka-and-hdfs
+ 1215  docker-compose exec cloudera hadoop fs -ls /tmp/
+ 1216  docker-compose exec spark pyspark
+ 1217  docker-compose down
+ 1218  docker-compose ps
+ 1219  docker ps -a
+ 1220  history
+ 1221  exit
+ 1222  ls
+ 1223  cd w205
+ 1224  ls
+ 1225  cd assignment-07-gary-pei/
+ 1226  ls
+ 1227  git lg
+ 1228  history | grep docker
+ 1229  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1230  ifconfig
+ 1231  ls
+ 1232  cd
+ 1233  ls
+ 1234  mv lamda.png w205/assignment-07-gary-pei/.
+ 1235  cd w205/assignment-07-gary-pei/.
+ 1236  ls
+ 1237  cd ..
+ 1238  ls
+ 1239  history 
+ 1240  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1241  exit
+ 1242  ls
+ 1243  mv lamda.png w205/assignment-07-gary-pei/
+ 1244  cd w205/assignment-07-gary-pei/
+ 1245  ls -tl
+ 1246  history 
+ 1247  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1248  mv ~/topology.png .
+ 1249  ls
+ 1250  ls -tl
+ 1251  docker run -it --rm -v /home/science/w205:/w205 midsw205/base:latest bash
+ 1252  exit
+ 1253  history
+ 1254  mkdir w205/HW8
+ 1255  cd w205/HW8
+ 1256  curl -L -o assessment-attempts-20180128-121051-nested.json https://goo.gl/f5bRm4
+ 1257  ls -al
+ 1258  ls ../
+ 1259  cp ~/w205/spark-with-kafka-and-hdfs/docker-compose.yml .
+ 1260  cat docker-compose.yml
+ 1261  docker-compose up -d
+ 1262  docker-compose exec cloudera hadoop fs -ls /tmp/
+ 1263  docker-compose exec kafka >   kafka-topics >     --create >     --topic assessment-attempts >     --partitions 1 >     --replication-factor 1 >     --if-not-exists \
+ 1264  history
+ 1265  docker-compose exec kafka    kafka-topics      --create      --topic assessment-attempts      --partitions 1      --replication-factor 1      --if-not-exists \
+ 1266  docker-compose exec kafka   kafka-topics     --create     --topic assessment-attempts     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper zookeeper:32181
+ 1267  docker-compose exec kafka kafka-topics --describe --topic assessment-attempts --zookeeper zookeeper:32181
+ 1268  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l "
+ 1269  docker-compose exec mids bash -c "cat /w205/HW8/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | wc -l "
+ 1270  docker-compose exec mids bash -c "cat /w205/HW7/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+ 1271  docker-compose exec mids bash -c "cat /w205/HW8/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+ 1272  docker-compose exec kafka    kafka-console-consumer      --bootstrap-server kafka:29092      --topic assessment-attempts      --from-beginning      --max-messages 1
+ 1273  docker-compose exec spark pyspark
+ 1274  docker-compose down
+ 1275  docker-compose ps
+ 1276  docker ps -a
+ 1277  history
+ 1278  docker-compose up -d
+ 1279  docker-compose exec cloudera hadoop fs -ls /tmp/
+ 1280  docker-compose exec kafka   kafka-topics     --create     --topic assessment-attempts     --partitions 1     --replication-factor 1     --if-not-exists     --zookeeper zookeeper:32181
+ 1281  docker-compose exec mids bash -c "cat /w205/HW8/assessment-attempts-20180128-121051-nested.json | jq '.[]' -c | kafkacat -P -b kafka:29092 -t assessment-attempts && echo 'Produced 3280 messages to topic assessment-attempts.'"
+ 1282  docker-compose exec kafka    kafka-console-consumer      --bootstrap-server kafka:29092      --topic assessment-attempts      --from-beginning      --max-messages 1
+ 1283  docker-compose exec spark pyspark
+ 1284  docker-compose down
+ 1285  docker-compose ps
+ 1286  docker ps -a
+ 1287  history > ~/w205/assignment-08-gary-pei/gary-pei-history.txt
