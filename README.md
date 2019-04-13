@@ -4,10 +4,11 @@
 
 ### Table of contents
 
-- Statistics for Data Science:
+#### Statistics for Data Science:
 
-  o [Reducing Crime](Reduce-Crime/w203.pdf)
+- [Reducing Crime](Reduce-Crime/w203.pdf)
 
-- Fundamentals of Data Engineering:
+#### Fundamentals of Data Engineering:
 
-  o [Bike Sharing Analysis](W205/bike-sharing.ipynb)
+- [Bike Sharing Analysis](W205/bike-sharing.ipynb)
+- [Tracking Mobile Game Events](W205/hw12/project3-gary-pei.md)
