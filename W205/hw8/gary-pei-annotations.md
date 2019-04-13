@@ -653,15 +653,3 @@ Tested multiple subscribes and got the same data each time. I then demonstrated 
 consume messages and transform messages as needed. Thus, these messages can be stored in
 Hadoop file system for batch processing. In summary, the Docker cluster
 meets all desired functionality for this assignment.
-
-## Appendix
-
-Here is a list of enhancements beyond the example learned during the sync session.
-
-   - Changed topic title to `assessment-attempts` instead of using `foo`.
-   - Completed multiple message subscribe/consume using both mids and Kafka containers. Multiple maximum
-     number of messages setting were also performed.
-   - Used Spark to exam nested Json messages to lower level.
-   - Provided description on Lambda architecture and networking.
-   - Provided diagrams to illustrate Lambda architecture and networking.
-   - Provided the standard output for each command.

@@ -901,14 +901,3 @@ were captured by web server and added additional information before publishing t
 Finally, queries were performed based on the save data.
 In summary, the docker cluster, game web server API and the related `spark` Python scripts meet
 all targeted functionalities for this project.
-
-## Appendix
-
-The following is a list of enhancements beyond the example learned during the synchronous session.
-
-   - Provided description on data pipeline architecture.
-   - Used figure to illustrate data pipeline architecture.
-   - Documented standard output for each command in detail.
-   - Implemented enhanced API for `purchase_a_sword` to allow arbitrary number of parameters such as type, color, price etc.
-   - Added a function to select keys needed after json.loads to avoid failures due to uneven json entries (e.g., due to parameters and real host browser access etc.)
-   - Tested the API from a real host on the Internet.
