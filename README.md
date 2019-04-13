@@ -6,7 +6,7 @@
 
 #### Statistics for Data Science:
 
-- [Reducing Crime](Reduce-Crime/w203.pdf)
+- [Reducing Crime](W203/w203.pdf)
 
 #### Fundamentals of Data Engineering:
 
