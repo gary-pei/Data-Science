@@ -20,7 +20,7 @@
 
 #### Data Visualization:
 
-- [Flight Viz with D3](https://ucberkeley-mids.github.io/W209-FlightViz/)
+- [Flight Viz with d3](https://ucberkeley-mids.github.io/W209-FlightViz/)
 
 #### Natural Language Processing with Deep Learning
 
