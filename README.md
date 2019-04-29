@@ -28,6 +28,8 @@
 
 #### Deep Learning in the Cloud and at the Edge:
 
-- [Single Source Shortest Path Spark implementation](W261/sssp.ipynb)
+- [Emotion Detection at the Edge](W251/W251.pdf)
 
 #### Machine Learning at Scale:
+
+- [Single Source Shortest Path Spark implementation](W261/sssp.ipynb)
