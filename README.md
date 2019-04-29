@@ -28,4 +28,6 @@
 
 #### Deep Learning in the Cloud and at the Edge:
 
+- [Single Source Shortest Path Spark implementation](W261/sssp.ipynb)
+
 #### Machine Learning at Scale:
