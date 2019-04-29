@@ -22,6 +22,10 @@
 
 - [Flight Viz with d3](https://ucberkeley-mids.github.io/W209-FlightViz/)
 
-#### Natural Language Processing with Deep Learning
+#### Natural Language Processing with Deep Learning:
 
 - [Convolutional Neural Networks for Sentiment Analysis on Amazon Product Reviews](W266/report.pdf)
+
+#### Deep Learning in the Cloud and at the Edge:
+
+#### Machine Learning at Scale:
