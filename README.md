@@ -4,6 +4,10 @@
 
 ### Table of contents
 
+#### Research Design and Applications for Data and Analysis (RDADA):
+
+- [Example RDADA Portfolio](https://w201rdada.github.io/portfolio-gary-pei/)
+
 #### Statistics for Data Science:
 
 - [Reducing Crime](W203/w203.pdf)
